@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "【MV】全く身にならない日々 ／ キヨ×レトルト",
+  "base_artist": "キヨ。",
+  "createdAt": "2025-12-12T17:05:34.842189Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全く身にならない日々",
+      "artist": "キヨ×レトルト",
+      "has_synced": false,
+      "path": "select/pl_01_全く身にならない日々_キヨ×レトルト.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "全く身にならない日々",
+      "artist": "キヨ×レトルト",
+      "has_synced": false,
+      "path": "select/pl_02_全く身にならない日々_キヨ×レトルト.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "全く身にならない日々",
+      "artist": "キヨ×レトルト",
+      "has_synced": false,
+      "path": "select/pl_03_全く身にならない日々_キヨ×レトルト.txt"
+    }
+  ]
+}
